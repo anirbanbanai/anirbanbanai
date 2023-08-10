@@ -1,15 +1,15 @@
-### Hi there 👋
+### Hi there 👋, This is Anirban Banai
+#### I am Web Developer
+![I am Web Developer](https://media.licdn.com/dms/image/D5616AQE9AsgZgO9owA/profile-displaybackgroundimage-shrink_350_1400/0/1691696777369?e=1697068800&v=beta&t=bikZ3oeOAKNUzdHT9fWSp2f4muOEabW0i6sQIg67d8E)
+
+I am a MERN stack developer. I have experience with Front-end development,Back-end development, Full-stack development, Node.js development, React.js developments.
+
+Skills: Next.js || Typescript || Javascript || React.js || Node.js || Express.js || MongoDb ||
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Redux, Typescript. 
+- 💬 Ask me about Web Developmenmt. 
 
 
-**anirbanbanai/anirbanbanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/anirbanbanai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anirban-cb-50439b284//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100077890384340)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://beautiful-druid-3322e4.netlify.app/)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
