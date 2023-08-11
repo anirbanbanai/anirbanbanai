@@ -1,6 +1,7 @@
+![I am Web Developer](https://media.licdn.com/dms/image/D5616AQE9AsgZgO9owA/profile-displaybackgroundimage-shrink_350_1400/0/1691696777369?e=1697068800&v=beta&t=bikZ3oeOAKNUzdHT9fWSp2f4muOEabW0i6sQIg67d8E)
 ### Hi there 👋, This is Anirban Banai
 #### I am Web Developer
-![I am Web Developer](https://media.licdn.com/dms/image/D5616AQE9AsgZgO9owA/profile-displaybackgroundimage-shrink_350_1400/0/1691696777369?e=1697068800&v=beta&t=bikZ3oeOAKNUzdHT9fWSp2f4muOEabW0i6sQIg67d8E)
+
 
 I am a MERN stack developer. I have experience with Front-end development,Back-end development, Full-stack development, Node.js development, React.js developments.
 
