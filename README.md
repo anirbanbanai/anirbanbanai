@@ -22,7 +22,7 @@ Skills: Next.js || Typescript || Javascript || React.js || Node.js || Express.js
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/Sania-Ahmed)
 <h1 align="center">Hi 👋,a</h1>
 <h3 align="center">An enough motivated frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
+
 
 
 - 🔭 I’m currently working on [The-rhythmic](https://the-rhythmic.web.app/)
