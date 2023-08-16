@@ -16,10 +16,10 @@ Skills: Next.js || Typescript || Javascript || React.js || Node.js || Express.js
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
- <img src="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png" alt="bootstrap" width="40" height="40"/> 
+
  
- <img src="https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2018/08/typescriptfeature.png" alt="css3" width="40" height="40"/> 
- 
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png" alt="express" width="40" height="40"/> </a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2018/08/typescriptfeature.png" alt="express" width="40" height="40"/> </a>
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
  
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
