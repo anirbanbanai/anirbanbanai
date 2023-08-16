@@ -28,10 +28,3 @@ Skills: Next.js || Typescript || Javascript || React.js || Node.js || Express.js
 
 
 
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sania-ahmed&show_icons=true&locale=en&layout=compact" alt="sania-ahmed" /></p>
-
-
