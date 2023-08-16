@@ -27,13 +27,6 @@ Skills: Next.js || Typescript || Javascript || React.js || Node.js || Express.js
 
 
 
-- 🔭 I’m currently working on [The-rhythmic](https://the-rhythmic.web.app/)
-
-- 👨‍💻 All of my projects are available at [https://saniaport-18eb9.web.app/](https://saniaport-18eb9.web.app/)
-
-- 💬 Ask me about **Frontend development , MERN stack development**
-
-- 📫 How to reach me **tasminsania77@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OSLhE8dJaeY-QAeejp8YapQU6qUDdv5G/view?usp=sharing](https://drive.google.com/file/d/1OSLhE8dJaeY-QAeejp8YapQU6qUDdv5G/view?usp=sharing)
 
