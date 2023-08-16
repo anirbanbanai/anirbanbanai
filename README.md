@@ -16,7 +16,7 @@ Skills: Next.js || Typescript || Javascript || React.js || Node.js || Express.js
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
- <a href="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png" alt="bootstrap" width="40" height="40"/> </a> 
+ <img src="https://raw.githubusercontent.com/ijsto/reactnextjssnippets/master/images/logo02.png" alt="bootstrap" width="40" height="40"/> 
  
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
  
