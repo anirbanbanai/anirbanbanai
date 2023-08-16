@@ -25,7 +25,7 @@ Skills: Next.js || Typescript || Javascript || React.js || Node.js || Express.js
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com//anirbanbanai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//anirban-cb-50439b284//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com//profile.php?id=100077890384340)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://beautiful-druid-3322e4.netlify.app/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com//anirbanbanai)  [<img src='https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png' alt='linkedin' height='40'>](https://www.linkedin.com/in//anirban-cb-50439b284//)  [<img src='https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png' alt='facebook' height='40'>](https://www.facebook.com//profile.php?id=100077890384340)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://beautiful-druid-3322e4.netlify.app/) 
 
 
 
