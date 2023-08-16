@@ -23,7 +23,7 @@ Skills: Next.js || Typescript || Javascript || React.js || Node.js || Express.js
 
 
 
-
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]()
 
 
 
@@ -34,6 +34,4 @@ Skills: Next.js || Typescript || Javascript || React.js || Node.js || Express.js
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sania-ahmed&show_icons=true&locale=en&layout=compact" alt="sania-ahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sania-ahmed&show_icons=true&locale=en" alt="sania-ahmed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sania-ahmed&" alt="sania-ahmed" /></p>
